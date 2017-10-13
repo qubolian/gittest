@@ -1,2 +1,3 @@
-magic
+magic 
 iiti a.txt11111111111 111
+修改一下magic分支
